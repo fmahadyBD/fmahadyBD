@@ -72,11 +72,12 @@ Connect with me:</h3>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
-
+<div>
 <p align="center">
     <img align="right" height="185px" src="https://github-readme-stats.vercel.app/api?username=fmahadyBD&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="left" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmahadyBD&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
+  </div>
 </details>
 <br/>
 
