@@ -91,6 +91,18 @@ Connect with me:</h3>
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=fmahadyBD&theme=react-dark&hide_border=true&area=true)
 
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fmahadybd/count.svg" />
+</p>
+
+
+
+
+
+
+
+
 
 
 
