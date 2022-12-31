@@ -57,7 +57,7 @@
   <hr>
     <h3> Project Name: Appliced Data Structure</h3><br>
   <b>Language & Tools:  </b> C <br>
-  <b> Project:</b><a href=" https://github.com/fmahadyBD/Project-With-C/blob/main/Monthly%20project/Data%20Structure%20Project%20with%20C/Applied_Data_Structure.c"> Appliced Data Structure</a>
+  <b> Project:</b><a href="https://github.com/fmahadyBD/Project-With-C/blob/main/Monthly%20project/Data%20Structure%20Project%20with%20C/Applied_Data_Structure.c"> Appliced Data Structure</a>
   
   
  </details>
