@@ -46,14 +46,14 @@
    
   
 <br/>
-   
-<h2>My Projects</h2>
 <details>
-  <summary><h2>👨‍💻 I am using C and JAVA programing for logical project </h2></summary><br>
+  <summary>   
+<h2>My Projects</h2>
+<h2>👨‍💻 I am using C and JAVA programing for logical project </h2></summary><br>
   <hr>
   <h3> Project Name: Appliced Data Structure</h3><br>
-  <b>Language & Tools: </b> JAVA <br>
-  <b> Project:</b><a href="[url](https://github.com/fmahadyBD/Appliced-Data-Structure-with-java-project)">Appliced Data Structure</a>
+  <b>Language & Tools:  </b>  JAVA <br>
+  <b> Project:</b><a href="https://github.com/fmahadyBD/Appliced-Data-Structure-with-java-project"> Appliced Data Structure</a>
   
   
  </details>
