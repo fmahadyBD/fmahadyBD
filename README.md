@@ -1,4 +1,12 @@
 <h1 align="center"> Mahady Hasan Fahim</h1>
+
+<hr>
+
+
+
+
+
+
 <h3>
   
   <p class="glowing-text"> I am Mahady Hasan Fahim. I am a student of computer science and engineering.. I am a programmer and a writer. </p>
@@ -41,27 +49,60 @@
 <h2>More About me</h2>
 <details>
  <summary><h3>👨‍💻 Mahady Hasan Fahim's Coding Journey</h3></summary>
-   I have Sratr My Coding life from 2021. We start with the Java.</details>
+   I have Start My Coding life from 2021. I have start with the Java.</details>
    
   
 <br/>
+  
+  #
 <details>
   <summary>   
 <h2>My Projects</h2>
 <h2>👨‍💻 I am using C and JAVA programing for logical project </h2></summary><br>
   <hr>
-  <h3> Project Name: Appliced Data Structure</h3><br>
-  <b>Language & Tools:  </b>  JAVA <br>
-  <b> Project:</b><a href="https://github.com/fmahadyBD/Appliced-Data-Structure-with-java-project"> Appliced Data Structure</a>
-  <hr>
-    <h3> Project Name: Appliced Data Structure</h3><br>
-  <b>Language & Tools:  </b> C <br>
-  <b> Project:</b><a href="https://github.com/fmahadyBD/Project-With-C/blob/main/Monthly%20project/Data%20Structure%20Project%20with%20C/Applied_Data_Structure.c"> Appliced Data Structure</a>
+  
+  <details>
+         <summary>   
+         <h4>My University Projects</h4>  
+          </summary> 
+          <hr>
+<details>
+  <summary>   
+  <h5>
+     My 1st year Projects
+  </h5> 
+  </summary> 
+  
+<p style="align-content: center;">
+<p style="align-content: center;">The Projects of My university</p><br><br></br>
+  
+<table style="border-collapse: collapse;margin: 0 auto; ">
+  <tr>
+    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Name of Projects</th>
+    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Tools And Language</th>
+    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;"> Short Discribstions</th>
+    <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Links</th>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; text-align: left;  padding: 8px;">Data Structure</td>
+    <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Java And DS</td>
+    <td style="border: 1px solid #dddddd; text-align: left;padding: 8px;margin: 2px;">  In this Project, I am using some<br>
+        Basic of Fncitional Data structure</br>
+        So that Easily anyone can Understant  </br>
+      </td>
+     <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;"><a href="https://github.com/fmahadyBD/Project-With-C/blob/main/Monthly%20project/Data%20Structure%20Project%20with%20C/Applied_Data_Structure.c"> Appliced Data Structure</a></td>
+     
+  </tr>
+</table>
+</p>
+
+</details>
+</details>
+<hr>
   
   
  </details>
-
-
 
 
 
