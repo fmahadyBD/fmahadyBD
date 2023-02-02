@@ -12,7 +12,7 @@
 
 <h3>
   
-  <p class="glowing-text"> I am Mahady Hasan Fahim. I am a student of computer science and engineering.. I am a programmer and a writer. </p>
+  <p class="glowing-text"> I am a student of computer science and engineering.. I am a programmer and a writer. </p>
   </h3>
 
 
