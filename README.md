@@ -11,20 +11,19 @@
   <p> I am a student of computer science and engineering. I am a programmer and a writer. </p>
 </h3>
 
+
 <!-- Viewer -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fmahadybd&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> </p>
  
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- My Projectes cards -->
-<details>
+<details open="">
 <summary>  
   <strong>My Projects : </strong>
 </summary>
 <br/>
 <div>
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Appliced-Data-Structure-with-java-project&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Clear-Browser-Cache-and-Data-project&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/fmahadyBD/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
 </div>
 </details>
