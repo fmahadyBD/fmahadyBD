@@ -8,7 +8,7 @@
 
 <!-- More about me -->
 <h3> 
-  <p> I am a student of computer science and engineering. I am a programmer and a writer. </p>
+  <p> I am a Web developer and 2d Animator. I love to write reallife based story. I study computer science and engineering. </p>
 </h3>
 
 
