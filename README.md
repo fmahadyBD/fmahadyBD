@@ -13,7 +13,8 @@
 
 
 <!-- Viewer -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fmahadybd&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=fmahadybd&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> <img height="20" src="https://img.shields.io/github/followers/fmahadyBD?label=follow&logo=github&style=flat" /></p>
+
  
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- My Projectes cards -->
