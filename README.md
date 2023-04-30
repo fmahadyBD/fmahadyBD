@@ -1,3 +1,5 @@
+
+
 <!-- Typing SCG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDE100&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Mahady+Hasan+Fahim!" align="middle" alt="Hey,  Welcome to my Profile! animated typed out" width="100%"/>
 
@@ -51,6 +53,30 @@
 
 <!-- Graphs -->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=fmahadyBD&theme=react-dark&hide_border=true&area=true)
+
+
+<!--  My Skill -->
+
+### My Skill:
+  
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,blender,mysql)](https://skillicons.dev)
+  
+
+  
+ ### Learning: 
+<!--  Learning -->
+[![My Skills](https://skillicons.dev/icons?i=js,flutter,laravel,php,py,tailwind)](https://skillicons.dev)
+<!--  Plan to learn -->
+### Future Plan:
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,powershell)](https://skillicons.dev)
+<!--  Social Media -->
+### Social Media:
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,twitter)](https://skillicons.dev)
+<!--  Tools & OS -->
+### My Tools & OS
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,eclipse,git,github,gitlab,linux,ps,vscode,)](https://skillicons.dev)
+
+
 
 <!--  Visitor count -->
 <p align="center">
