@@ -10,7 +10,7 @@
 
 <!-- More about me -->
 <h3> 
-  <p> I am a Web developer and 2d Animator. I love to write real life based story. I study in computer science and engineering. </p>
+  <p> I am a laravel web developer and Java swing Desktop App developer. I study in computer science and engineering. I have interest in AI tecnology and Data Science</p>
 </h3>
 
 
