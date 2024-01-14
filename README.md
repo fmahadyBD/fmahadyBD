@@ -54,8 +54,21 @@
 
 
 <!-- Graphs -->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=fmahadyBD&theme=react-dark&hide_border=true&area=true)
 
+<p align="center">
+  <a href="https://github.com/fmahadyBD">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmahadyBD&theme=algolia" alt="Fahim's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+   
+
+![Fahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fmahadyBD&custom_title=Mahady_Hasan_Fahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+
+<br/>
 
 <!--  My Skill -->
 
