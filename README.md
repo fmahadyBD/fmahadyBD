@@ -70,27 +70,6 @@
 
 <br/>
 
-<!--  My Skill -->
-
-### My Skill:
-  
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,blender,mysql)](https://skillicons.dev)
-  
-
-  
- ### Learning: 
-<!--  Learning -->
-[![My Skills](https://skillicons.dev/icons?i=js,flutter,laravel,php,py,tailwind)](https://skillicons.dev)
-<!--  Plan to learn -->
-### Future Plan:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,powershell)](https://skillicons.dev)
-<!--  Social Media -->
-### Social Media:
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,twitter)](https://skillicons.dev)
-<!--  Tools & OS -->
-### My Tools & OS
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,eclipse,git,github,gitlab,linux,ps,vscode,)](https://skillicons.dev)
-
 
 
 <!--  Visitor count -->
