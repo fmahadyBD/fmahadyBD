@@ -49,6 +49,10 @@
   <p>
   </div>
 </details>
+<details open="">
+  <summary>
+      <strong>𝙶𝚒𝚝𝚑𝚞𝚋 Activity : </strong>
+    </summary>
 <br/>
 
 
@@ -71,7 +75,7 @@
 <br/>
 
 
-
+</details>
 <!--  Visitor count -->
 <p align="center">
   Visitor count<br>
