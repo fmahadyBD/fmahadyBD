@@ -20,9 +20,18 @@
  
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- My Projectes cards -->
-<details open="">
+
+<!-- Projects -->
+
+<details closed="">
 <summary>  
-  <strong>My Projects : </strong>
+  <strong>Projects : </strong>
+</summary>
+<br/>
+</details>
+  <details closed="">
+<summary>  
+  <strong>Practice Projects : </strong>
 </summary>
 <br/>
 <p align="left"><a href="https://github.com/fmahadyBD/Smart-School-Project-SSP"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Smart-School-Project-SSP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
