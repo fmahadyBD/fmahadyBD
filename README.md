@@ -23,13 +23,13 @@
 
 <!-- Projects -->
 
-<details closed="">
+<details open="">
 <summary>  
   <strong>Projects : </strong>
 </summary>
 <br/>
 </details>
-  <details closed="">
+  <details open="">
 <summary>  
   <strong>Practice Projects : </strong>
 </summary>
