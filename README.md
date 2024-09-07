@@ -10,7 +10,7 @@
 
 <!-- More about me -->
 <h3> 
-  <p> I am a laravel web developer and Java swing Desktop App developer. I study in computer science and engineering. I have interest in AI tecnology and Data Science</p>
+  <p>I am a Java Spring Boot web developer and currently a student of Computer Science and Engineering (CSE). I have experience in Laravel web development, and I am currently learning React.js to become a full-stack web developer.</p>
 </h3>
 
 
