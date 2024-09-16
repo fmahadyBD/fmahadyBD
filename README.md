@@ -28,8 +28,19 @@
   <strong>Projects : </strong>
 </summary>
 <br/>
+
+<!-- Main Project -->
+    
+<p align="left"><a href="https://github.com/fmahadyBD/chat_app"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=chat_app&theme=react&bg_color=1F222E&title_color=F85D8F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+<a href="https://github.com/fmahadyBD/dream-shop"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=dream-shop&theme=react&bg_color=1F222E&title_color=F85D8F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+<a href="https://github.com/fmahadyBD/RS_Ecommrece_Website"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=RS_Ecommrece_Website&theme=react&bg_color=1F222E&title_color=F85D8F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> </p>
+
+<!-- end main Project -->
+
 </details>
-  <details open="">
+  <details closed="">
 <summary>  
   <strong>Practice Projects : </strong>
 </summary>
