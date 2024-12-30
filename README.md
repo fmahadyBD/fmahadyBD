@@ -9,9 +9,25 @@
 <img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/Line.gif" width="100%"/>
 
 <!-- More about me -->
-<h3> 
-  <p>I am a Java Spring Boot web developer and currently a student of Computer Science and Engineering (CSE). I have experience in Laravel web development, and I am currently learning React.js to become a full-stack web developer.</p>
-</h3>
+# Introduction
+
+- **Full-Stack Web Developer** with a focus on backend development using **Java Spring Boot**.
+- For **frontend development**, I use **Angular** to build dynamic and responsive user interfaces.
+- Recently started using **Flutter** for **mobile app development** to create cross-platform applications.
+- Proficient in using **MySQL** for database management, ensuring data integrity and performance.
+
+## Education and Research
+- Currently a student in **Computer Science and Engineering**.
+- Conducting research on **AI-based software solutions**.
+
+## Skills and Expertise
+- Continuously improving my development skills through **LeetCode** problem-solving and algorithmic challenges.
+- **Leadership**: Experienced in leading teams for academic and personal projects.
+- Proficient in **Linux** and **Bash scripting**.
+- Skilled in programming languages including **C++**, **Python**, and **C**.
+- Interested in **cybersecurity**, with a focus on ethical hacking and security protocols.
+- Started my development journey with **Laravel**, which provided a strong foundation in web development and led to the adoption of other modern frameworks.
+
 
 
 <!-- Viewer -->
