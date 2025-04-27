@@ -58,7 +58,7 @@
 <!-- Others Project-->
 
 ## More Project 
-  <details close="">
+  <details open="">
 <summary>  
   <strong> Click me to show: </strong>
 </summary>
