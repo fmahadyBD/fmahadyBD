@@ -40,14 +40,17 @@
 </summary>
  <br/>  
  <p>Spring Boot + Angular</p>
-  
-<p align="left"><a href="https://github.com/fmahadyBD/Weather-Dashboard"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Weather-Dashboard&theme=react&bg_color=001F3F&title_color=FF4136&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><p align="left"><a href="https://github.com/fmahadyBD/art-gallery"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=art-gallery&theme=react&bg_color=001F3F&title_color=FF4136&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+ 
+<a href="https://github.com/fmahadyBD/Weather-Dashboard"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Weather-Dashboard&theme=react&bg_color=001F3F&title_color=FF4136&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><a href="https://github.com/fmahadyBD/art-gallery"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=art-gallery&theme=react&bg_color=001F3F&title_color=FF4136&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </details>
+
+
+
 <!-- end main Project -->
 
 
 ## More Spring Boot Project
-<details open="">
+<details closed="">
 <summary>  
  this.click
 </summary>
@@ -58,7 +61,7 @@
 <!-- Others Project-->
 
 ## More Project 
-  <details open="">
+  <details closed="">
 <summary>  
   <strong> Click me to show: </strong>
 </summary>
