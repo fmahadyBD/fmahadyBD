@@ -14,12 +14,12 @@
 
 - **Full-Stack Web Developer** with a focus on backend development using **Java Spring Boot**.
 - For **frontend development**, I use **Angular** to build dynamic and responsive user interfaces.
-- Recently started using **Flutter** for **mobile app development** to create cross-platform applications.
+- Recently started using **Cyber secuirty** for **Web pentesting** to secure Web applications.
 - Proficient in using **MySQL** for database management, ensuring data integrity and performance.
 
 ## Education and Research
 - Currently a student in **Computer Science and Engineering**.
-- Conducting research on **AI-based software solutions**.
+
 
 
 ## Skills and Expertise
